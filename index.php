@@ -102,7 +102,22 @@
 						<span class="cata new">REGISTER FOR MOBILE LEGENDS</span>
 						<div class="fi-content text-white">
 							<h5>Tournament Mobile Legends of Bayan</h5>
-							<a class="site-btn2" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeFQKkX2hk6Q7-QDKlkvYYVWHBbpixeWNSA9aHxJ65TGjR__w/viewform" >CLICK TO REGISTER</a>
+							<?php
+								$dateTime=date("d-m-Y");
+								
+
+								if ($dateTime=="30-03-2020") {
+									?>
+										<button class="btn btn-disabled">Pendaftaran Ditutup</button>
+									<?php
+								}
+								else{
+									?>
+										<a class="site-btn2" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeFQKkX2hk6Q7-QDKlkvYYVWHBbpixeWNSA9aHxJ65TGjR__w/viewform">CLICK TO REGISTER</a>
+									<?php
+								}
+
+							?>
 						</div>
 					</div>
 				</div>
@@ -111,7 +126,22 @@
 						<span class="cata new">REGISTER FOR PUBG MOBILE </span>
 						<div class="fi-content text-white">
 							<h5>Tournament PUB Mobile of Bayan</h5>
-							<a class="site-btn2" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdUMAnMf_SnaAQnZTot7tvqc7j_b-fMZmvbVVMOFZQ3yBYlQg/viewform">CLICK TO REGISTER</a>
+							<?php
+								$dateTime=date("d-m-Y");
+								
+
+								if ($dateTime=="30-03-2020") {
+									?>
+										<button class="btn btn-disabled">Pendaftaran Ditutup</button>
+									<?php
+								}
+								else{
+									?>
+										<a class="site-btn2" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdUMAnMf_SnaAQnZTot7tvqc7j_b-fMZmvbVVMOFZQ3yBYlQg/viewform">CLICK TO REGISTER</a>
+									<?php
+								}
+
+							?>
 						</div>
 					</div>
 				</div>
