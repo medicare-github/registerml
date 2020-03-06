@@ -198,7 +198,7 @@
 						<img src="img/panitia/riadus.jpg" data-toggle="modal" data-target="#riadus" width="70px" height="70px" class="rounded-circle " alt="riadus">
 					</div>
 					<div class="panitia">
-						<img src="img/panitia/rianto.jpg" data-toggle="modal" data-target="#rianto" width="70px" height="70px" class="rounded-circle " alt="">
+						<img src="img/panitia/rianto2.jpg" data-toggle="modal" data-target="#rianto" width="70px" height="70px" class="rounded-circle " alt="">
 					</div>
 				</div>
 			</div>
@@ -212,7 +212,14 @@
 					<img src="img/panitia/medi.jpeg" width="150px" class="rounded-circle" srcset="">
 					<h5>Medicare</h5>
 					<h6>Laki-laki</h6>
-					<span><i class="fa fa-facebook"></i> medicare</span>
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+							<a href="https://www.facebook.com/medicare" target="blank"><i class="fa fa-facebook"></i> medicare</a>
+						</div>
+						<div class="col-md-6 col-sm-6">
+							<a href="https://www.instagram.com/medicare__/" target="blank"><i class="fa fa-instagram"></i> medicare</a>
+						</div>
+					</div>
 
 				</div>
 			</div>
@@ -226,7 +233,14 @@
 					<img src="img/panitia/riadus.jpg" width="150px" class="rounded-circle" srcset="">
 					<h5>riadus</h5>
 					<h6>Laki-laki</h6>
-					<span><i class="fa fa-facebook"></i> riadus</span>
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+							<a href="https://www.facebook.com/" target="blank"><i class="fa fa-facebook"></i> riadus</a>
+						</div>
+						<div class="col-md-6 col-sm-6">
+							<a href="https://www.instagram.com/" target="blank"><i class="fa fa-instagram"></i> riadus</a>
+						</div>
+					</div>
 
 				</div>
 			</div>
@@ -240,7 +254,14 @@
 					<img src="img/panitia/sudiana.jpg" width="150px" class="rounded-circle" srcset="">
 					<h5>sudiana</h5>
 					<h6>Laki-laki</h6>
-					<span><i class="fa fa-facebook"></i> sudiana</span>
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+							<a href="https://web.facebook.com/Sudy1566" target="blank"><i class="fa fa-facebook"></i> sudiana</a>
+						</div>
+						<div class="col-md-6 col-sm-6">
+							<a href="https://www.instagram.com/sudi_658/" target="blank"><i class="fa fa-instagram"></i> @sudi_658</a>
+						</div>
+					</div>
 
 				</div>
 			</div>
@@ -251,10 +272,17 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content text-center">
 				<div class="modal-body">
-					<img src="img/panitia/rianto.jpg" width="150px" class="rounded-circle" srcset="">
+					<img src="img/panitia/rianto2.jpg" width="150px" class="rounded-circle" srcset="">
 					<h5>rianto</h5>
 					<h6>Laki-laki</h6>
-					<span><i class="fa fa-facebook"></i> rianto</span>
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+							<a href="https://web.facebook.com/profile.php?id=100047863821428" target="blank"><i class="fa fa-facebook"></i> Yan</a>
+						</div>
+						<div class="col-md-6 col-sm-6">
+							<a href="https://www.instagram.com/rian_9651/" target="blank"><i class="fa fa-instagram"></i> @rian_9651</a>
+						</div>
+					</div>
 
 				</div>
 			</div>
