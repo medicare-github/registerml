@@ -176,6 +176,55 @@ ol {
 	color: #fff;
 	padding: 6px 25px;
 }
+.regis-ml{
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 500;
+	color: #fff;
+	padding: 12px 50px;
+	background: #3b1ceb;
+}
+.regis-pubg{
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 500;
+	color: #fff;
+	padding: 12px 50px;
+	background: #cf6712;
+}
+.qna{
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 500;
+	color: #fff;
+	padding: 20px 60px;
+	background: #0d0461;
+}
+.qna2{
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 500;
+	color: #fff;
+	padding: 20px 60px;
+	background: #831023;
+	border-radius: 50px;
+}
+.wa{
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: 500;
+	color: #fff;
+	padding: 12px 20px;
+	background: #258309;
+}
+.panitia{
+	margin: 20px;
+}
 
 .cata.new {
 	background: #ff205f;
