@@ -157,10 +157,10 @@
 						</div>
 						<div class="col-sm-12 col-md-6 col-lg-6 mt-1">
 							<div class="col-md-12 col-sm-12 text-center text-white">
-								<img src="img/panitia/riadah.jpg" width="80px" class="rounded-circle" alt="">
-								<h5 class="mt-2">riadah</h5>
+								<img src="img/panitia/ema.jpeg" width="80px" class="rounded-circle" alt="">
+								<h5 class="mt-2">ema</h5>
 								<p>pembayaran</p>
-								<a href="https://api.whatsapp.com/send?phone=6287785523853" target="_blank" class="wa">Click to chat via WA</a>
+								<a href="https://api.whatsapp.com/send?phone=6287863534855" target="_blank" class="wa">Click to chat via WA</a>
 							</div>
 						</div>
 					</div>
