@@ -8,10 +8,10 @@
 					<h6>Laki-laki</h6>
 					<div class="row">
 						<div class="col-md-6 col-sm-6">
-							<a href="https://www.facebook.com/medicare" target="blank"><i class="fa fa-facebook"></i> Tophy Miring</a>
+							<a href="https://web.facebook.com/thopy.putrasatria1" target="blank"><i class="fa fa-facebook"></i> Tophy Miring</a>
 						</div>
 						<div class="col-md-6 col-sm-6">
-							<a href="https://www.instagram.com/medicare__/" target="blank"><i class="fa fa-instagram"></i> Tophy Miring</a>
+							<a href="https://www.instagram.com/thopy_miring/?hl=en" target="blank"><i class="fa fa-instagram"></i> Tophy Miring</a>
 						</div>
 					</div>
 
@@ -134,10 +134,10 @@
 					<h6>Laki-laki</h6>
 					<div class="row">
 						<div class="col-md-6 col-sm-6">
-							<a href="https://web.facebook.com/" target="blank"><i class="fa fa-facebook"></i> Herwan</a>
+							<a href="#" target="blank"><i class="fa fa-facebook"></i> Herwan</a>
 						</div>
 						<div class="col-md-6 col-sm-6">
-							<a href="https://www.instagram.com//" target="blank"><i class="fa fa-instagram"></i> @Herwan</a>
+							<a href="#" target="blank"><i class="fa fa-instagram"></i> @Herwan</a>
 						</div>
 					</div>
 
