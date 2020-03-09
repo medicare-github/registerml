@@ -59,9 +59,9 @@
 		<div class="ln-title">Important Informations</div>
 		<div class="news-ticker">
 			<div class="news-ticker-contant">
-				<div class="nt-item"><span class="new">Deadline Register</span> 30 march 2020 </div>
-				<div class="nt-item"><span class="racing">Play on </span> 08:00 Am, 3 April 2020 at Warball Cafe </div>
-				<div class="nt-item"><span class="strategy">Contact WA </span> +6287 8656 4444 </div>
+				<div class="nt-item"><span class="new">Deadline Register</span> 25 march 2020 </div>
+				<div class="nt-item"><span class="racing">Play on </span> 02:00 pm, 1 April 2020 at Ponpes Gauts Abddurazak </div>
+				<div class="nt-item"><span class="strategy">Contact WA </span> +62819 0787 2481 </div>
 			</div>
 		</div>
 	</div>
@@ -85,6 +85,8 @@
 
 						<div class="fi-content text-white">
 							<h5>Tournament Mobile Legends of Bayan</h5>
+							<p>Batas Pendaftaran 25 Maret 2020</p>
+							<h6> Biaya Pendaftaran <span class="text-warning">65K</span> </h6>
 							<?php
 							$dateTime = date("d-m-Y");
 
@@ -95,7 +97,8 @@
 							<?php
 							} else {
 							?>
-								<a href="https://docs.google.com/forms/d/e/1FAIpQLSeFQKkX2hk6Q7-QDKlkvYYVWHBbpixeWNSA9aHxJ65TGjR__w/viewform" class="regis-ml" target="_blank">CLICK TO REGISTER</a>
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSeFQKkX2hk6Q7-QDKlkvYYVWHBbpixeWNSA9aHxJ65TGjR__w/viewform" class="regis-mlon" target="_blank">CLICK UNTUK PENDAFTARAN ONLINE</a>
+								<a href="https://drive.google.com/file/d/17t_d510Qekqd8VVS_Xfi2937nlTTM4vx/view?usp=sharing" class="regis-mloff mt-2" target="_blank"><i class="fa fa-download"></i>  DOWNLOAD FORMAT PENDAFTARAN OFFLINE</a>
 								<!-- <a class="site-btn2" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeFQKkX2hk6Q7-QDKlkvYYVWHBbpixeWNSA9aHxJ65TGjR__w/viewform">CLICK TO REGISTER</a> -->
 							<?php
 							}
@@ -109,6 +112,8 @@
 						<span class="cata new">PUBG MOBILE </span>
 						<div class="fi-content text-white">
 							<h5>Tournament PUB Mobile of Bayan</h5>
+							<p>Batas Pendaftaran 25 Maret 2020</p>
+							<h6> Biaya Pendaftaran <span class="text-warning">65K</span> </h6>
 							<?php
 							$dateTime = date("d-m-Y");
 
@@ -119,8 +124,8 @@
 							<?php
 							} else {
 							?>
-								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdUMAnMf_SnaAQnZTot7tvqc7j_b-fMZmvbVVMOFZQ3yBYlQg/viewform" class="regis-pubg" target="_blank">CLICK TO REGISTER</a>
-
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdUMAnMf_SnaAQnZTot7tvqc7j_b-fMZmvbVVMOFZQ3yBYlQg/viewform" class="regis-pubg-on" target="_blank">CLICK UNTUK PENDAFTARAN ONLINE</a>
+								<a href="https://drive.google.com/file/d/1lwcBRG-JzVAVZpE-soN3O7MWkHglAMyk/view?usp=sharing" class="regis-pubg-off mt-2" target="_blank"><i class="fa fa-download"></i>  DOWNLOAD FORMAT PENDAFTARAN OFFLINE</a>
 								<!-- <a class="site-btn2" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdUMAnMf_SnaAQnZTot7tvqc7j_b-fMZmvbVVMOFZQ3yBYlQg/viewform">CLICK TO REGISTER</a> -->
 							<?php
 							}
@@ -188,109 +193,16 @@
 			</div>
 			<div class="col-sm-12 col-lg-12 col-md-12 mb-3">
 				<div class="row text-center">
-					<div class="panitia">
-						<img src="img/panitia/medi.jpeg" data-toggle="modal" data-target="#exampleModal" width="70px" height="70px" class="rounded-circle " alt="">
-					</div>
-					<div class="panitia">
-						<img src="img/panitia/sudiana.jpg" data-toggle="modal" data-target="#sudi" width="70px" height="70px" class="rounded-circle " alt="">
-					</div>
-					<div class="panitia">
-						<img src="img/panitia/riadus.jpg" data-toggle="modal" data-target="#riadus" width="70px" height="70px" class="rounded-circle " alt="riadus">
-					</div>
-					<div class="panitia">
-						<img src="img/panitia/rianto2.jpg" data-toggle="modal" data-target="#rianto" width="70px" height="70px" class="rounded-circle " alt="">
-					</div>
+					<?php
+						include 'kepanitian.php';
+					?>			
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- medicare -->
-	<div class="modal fade " id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content text-center">
-				<div class="modal-body">
-					<img src="img/panitia/medi.jpeg" width="150px" class="rounded-circle" srcset="">
-					<h5>Medicare</h5>
-					<h6>Laki-laki</h6>
-					<div class="row">
-						<div class="col-md-6 col-sm-6">
-							<a href="https://www.facebook.com/medicare" target="blank"><i class="fa fa-facebook"></i> medicare</a>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<a href="https://www.instagram.com/medicare__/" target="blank"><i class="fa fa-instagram"></i> medicare</a>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- riadus -->
-	<div class="modal fade " id="riadus" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content text-center">
-				<div class="modal-body">
-					<img src="img/panitia/riadus.jpg" width="150px" class="rounded-circle" srcset="">
-					<h5>riadus</h5>
-					<h6>Laki-laki</h6>
-					<div class="row">
-						<div class="col-md-6 col-sm-6">
-							<a href="https://www.facebook.com/" target="blank"><i class="fa fa-facebook"></i> riadus</a>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<a href="https://www.instagram.com/" target="blank"><i class="fa fa-instagram"></i> riadus</a>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- sudiana -->
-	<div class="modal fade " id="sudi" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content text-center">
-				<div class="modal-body">
-					<img src="img/panitia/sudiana.jpg" width="150px" class="rounded-circle" srcset="">
-					<h5>sudiana</h5>
-					<h6>Laki-laki</h6>
-					<div class="row">
-						<div class="col-md-6 col-sm-6">
-							<a href="https://web.facebook.com/Sudy1566" target="blank"><i class="fa fa-facebook"></i> sudiana</a>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<a href="https://www.instagram.com/sudi_658/" target="blank"><i class="fa fa-instagram"></i> @sudi_658</a>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- rianto -->
-	<div class="modal fade " id="rianto" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content text-center">
-				<div class="modal-body">
-					<img src="img/panitia/rianto2.jpg" width="150px" class="rounded-circle" srcset="">
-					<h5>rianto</h5>
-					<h6>Laki-laki</h6>
-					<div class="row">
-						<div class="col-md-6 col-sm-6">
-							<a href="https://web.facebook.com/profile.php?id=100047863821428" target="blank"><i class="fa fa-facebook"></i> Yan</a>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<a href="https://www.instagram.com/rian_9651/" target="blank"><i class="fa fa-instagram"></i> @rian_9651</a>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- tomi -->
-	<!-- wardi -->
-
+	<?php
+		include 'modal_panitia.php';
+	?>
 
 	<!-- Footer section -->
 	<footer class="footer-section">
