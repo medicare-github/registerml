@@ -194,7 +194,7 @@
 			<div class="col-sm-12 col-lg-12 col-md-12 mb-3">
 				<div class="row text-center">
 					<?php
-						include 'kepanitian.php';
+						include 'Kepanitian.php';
 					?>			
 				</div>
 			</div>
